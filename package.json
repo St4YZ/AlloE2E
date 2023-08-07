@@ -2,7 +2,7 @@
   "devDependencies": {
     "cypress": "^12.17.1",
     "cypress-mochawesome-reporter": "^3.5.1"
-  },
+  }, 
   "dependencies": {
     "chai-sorted": "^0.2.0"
   }
