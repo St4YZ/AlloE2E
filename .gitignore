@@ -1,8 +1,9 @@
 # Node artifact files
-node_modules/
+/node_modules
 
 # Cypress artifacts
 cypress/screenshots/
 cypress/videos/
 cypress/downloads/
 cypress/reports/
+/package-lock.json
